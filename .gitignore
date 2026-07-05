@@ -18,3 +18,4 @@ frontend/.env
 
 # Claude Code local state
 .claude/
+.vercel
